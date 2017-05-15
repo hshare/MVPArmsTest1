@@ -1,0 +1,31 @@
+获取ITEM点：
+GET http://www.jx3tong.com/?m=api&c=info&a=category_list HTTP/1.1
+Host: www.jx3tong.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+获取最新：
+POST http://www.jx3tong.com/?m=api&c=info&a=content_list HTTP/1.1
+Content-Length: 33
+Content-Type: application/x-www-form-urlencoded
+Host: www.jx3tong.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+category_id=0&num=20&p=1&add_ad=1
+
+
+
+获取详情
+GET http://www.jx3tong.com/?m=page&c=info&a=detail&id=1990 HTTP/1.1
+Host: www.jx3tong.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+X-Requested-With: com.yueyou.jx3tong
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.2.2; zh-cn; OnePlus 3T Build/JDQ39E) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 JX3TONG/APP
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN, en-US
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="runtime-1.8.0-2.x">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.VictorAlbertos.RxCache/runtime/1.8.0-2.x/145eef0dc46b993a472208ee19b1cca81daf6bd5/runtime-1.8.0-2.x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.VictorAlbertos.RxCache/runtime/1.8.0-2.x/fdcc14660c8e780794b662e3718ba1b393a70096/runtime-1.8.0-2.x-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

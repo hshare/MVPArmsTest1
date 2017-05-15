@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.jess.arms.widget.autolayout.AutoCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="280px"
+    android:layout_marginBottom="20px"
+    android:layout_marginLeft="20px"
+    android:layout_marginRight="20px">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iv_avatar"
+            android:layout_width="300px"
+            android:layout_height="240px"
+            android:layout_margin="20px"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/leak_canary_icon" />
+
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="26px"
+            android:layout_toRightOf="@+id/iv_avatar"
+            android:textColor="@color/black"
+            android:textSize="45px"
+            tools:text="ss" />
+
+        <TextView
+            android:id="@+id/tv_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_name"
+            android:layout_marginTop="20px"
+            android:layout_toRightOf="@+id/iv_avatar"
+            android:textColor="#999999"
+            android:textSize="36px"
+            tools:text="ttttttttttttttt" />
+    </RelativeLayout>
+
+</com.jess.arms.widget.autolayout.AutoCardView>

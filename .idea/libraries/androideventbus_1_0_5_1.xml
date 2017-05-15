@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="androideventbus-1.0.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9f1cf1c5ee9ee07544259a3a7c5d22aa71d2130d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9f1cf1c5ee9ee07544259a3a7c5d22aa71d2130d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.simple/androideventbus/1.0.5.1/e2a1a01f34d7870d544c441bb8d8ee3ffbe95c99/androideventbus-1.0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

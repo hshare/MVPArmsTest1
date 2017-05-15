@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\af8ee1e72c4d792a7673175d8907b655b767e6c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="315739b9c5048cd188f7a062f910ffad662568d9">
+        <dex dex="D:\0M\AAACODE\MVPArms-master\app\build\intermediates\pre-dexed\debug\classes_9d01a10b3efe236783068330648d0af61939e239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0a382af071da278b352e60d255dfa3e1ee78125a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a43b4e0f1fc04fd60a3de8f6d5015d93703b3e">
+        <dex dex="D:\0M\AAACODE\MVPArms-master\app\build\intermediates\pre-dexed\debug\classes_2e6d379777d3d35bb610ff175c5e3fb7807e1362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\0M\AAACODE\MVPArms-master\arms\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23b9c5cd17ec2fe57892ecfb7847cd613ae9a15">
+        <dex dex="D:\0M\AAACODE\MVPArms-master\app\build\intermediates\pre-dexed\debug\classes_0e89d31e199b92782d116762f88915661cdd9f32.jar" />
+    </item>
+
+</items>

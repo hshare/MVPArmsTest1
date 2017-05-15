@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="paginate-0.5.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/eecc574a0ddceb491bac6dbc4a91c79b238a2178/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/eecc574a0ddceb491bac6dbc4a91c79b238a2178/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.markomilos/paginate/0.5.1/dd9381fc81126552196752c9529b67abee425d5a/paginate-0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
